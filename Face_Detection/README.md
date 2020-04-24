@@ -21,4 +21,5 @@ You can download WIDER Face Dataset in this link. For benchmarking purpose, we o
 Link: https://github.com/nodefluxio/face-detector-benchmark
 
 Another link: https://github.com/rosaj/face_detection
+
 https://github.com/timesler/facenet-pytorch
