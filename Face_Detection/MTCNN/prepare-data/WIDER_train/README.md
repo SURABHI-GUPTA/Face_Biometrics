@@ -1,1 +1,1 @@
-Download WIDER train from official sita and put it here.
+Download WIDER train from official site and put it here.
