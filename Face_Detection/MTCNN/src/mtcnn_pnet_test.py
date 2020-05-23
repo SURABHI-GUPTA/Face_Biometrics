@@ -61,7 +61,7 @@ if __name__ == '__main__':
                base_lr=0.0001,
                loss_weight=[1.0, 0.5, 0.5],
                train_mode=2,
-               num_epochs=[20,20, 20],
+               num_epochs=[200, 200, 200],
                load_model=False,
                load_filename=load_filename,
                save_model=True,
