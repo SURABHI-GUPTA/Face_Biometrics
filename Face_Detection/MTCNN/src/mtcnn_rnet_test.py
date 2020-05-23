@@ -61,11 +61,11 @@ if __name__ == '__main__':
                base_lr=0.0001,
                loss_weight=[1.0, 0.5, 0.5],
                train_mode=2,
-               num_epochs=[2, None, None],
+               num_epochs=[300, None, None],
                load_model=False,
                load_filename=load_filename,
                save_model=True,
                save_filename=save_filename,
-               num_iter_to_save=1000,
+               num_iter_to_save=50000,
                device=device,
                gpu_memory_fraction=0.4)
